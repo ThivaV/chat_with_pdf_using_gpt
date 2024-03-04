@@ -22,4 +22,4 @@ Chat with pdf using [GPT 3.5 Turbo](https://platform.openai.com/docs/models/gpt-
 - [Streamlit Chat Message History](https://python.langchain.com/docs/integrations/memory/streamlit_chat_message_history)
 - [FAISS](https://python.langchain.com/docs/integrations/vectorstores/faiss)
 
-[Chat with PDF using OpenAI GPT 3.5 Turbo - Playground](https://huggingface.co/spaces/thivav/chat_with_pdf_using_gpt)
+[Chat with PDF using OpenAI GPT 3.5 Turbo - 🤗 Playground](https://huggingface.co/spaces/thivav/chat_with_pdf_using_gpt)
